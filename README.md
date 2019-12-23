@@ -5,3 +5,4 @@ Technology Used:
 1) HTML5 and CSS3
 2) JavaScript and Jquery
 3) Owl Carousel 
+4) Google Analytics for SEO
